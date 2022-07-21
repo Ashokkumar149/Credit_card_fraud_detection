@@ -1,4 +1,2 @@
 # Credit_card_fraud_detection
- Detected fraudulent credit card transactions by using anomaly detection algorithms Isolation Forest and Local Outlier Factor
-Transformed the data using StandardScaler and performed EDA to find correlation of 30+ features with the target variable
-Implemented models like Logistic regression, Random forests and Naive-Bayes to achieve a final ROC AUC score of 0.842
+In today’s world, we are on the express train to a cashless society. According to the World Payments Report, in 2016 total non-cash transactions increased by 10.1% from 2015 for a total of 482.6 billion transactions! That’s huge! Also, it’s expected that in future years
